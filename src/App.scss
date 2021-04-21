@@ -1,0 +1,11 @@
+@import "./sass/base/reset";
+@import "./sass/base/fonts";
+@import "./sass/utilities/mixins";
+@import "./sass/utilities/variables";
+
+body {
+	overflow: hidden;
+	overflow-y: scroll;
+  margin: 0 auto;
+  background: #333 url('./assets/BG-Dark.jpg') repeat fixed center;
+}
