@@ -17,7 +17,7 @@ const DevelopmentPage = () => {
 						<span className="primary-color">frontend developer</span>
 					</p>
 					<div className="img-holder">
-						<UncontrolledLottie height={200} width={320}/>
+						<UncontrolledLottie height={200} width={320} />
 					</div>
 					<p>
 						My portfolio site is currently under development and will be ready
@@ -28,8 +28,14 @@ const DevelopmentPage = () => {
 						<a href="https://www.linkedin.com/in/osk-bjorns/" className="link">
 							LinkedIn
 						</a>{" "}
-						page for more information about me. You can contact me on LinkedIn
-						or by email at{" "}
+						page for more information about me and my work on{" "}
+						<a
+							href="https://github.com/OskinB?tab=repositories"
+							className="link"
+						>
+							GitHub
+						</a>
+						. You can contact me on LinkedIn or by email at{" "}
 						<span className="primary-color">osk.bjorns90@gmail.com</span>
 					</p>
 				</div>
@@ -55,8 +61,14 @@ const DevelopmentPage = () => {
 						<a href="https://www.linkedin.com/in/osk-bjorns/" className="link">
 							LinkedIn
 						</a>{" "}
-						page for more information about me. You can contact me on LinkedIn
-						or by email at{" "}
+						page for more information about me and my work on{" "}
+						<a
+							href="https://github.com/OskinB?tab=repositories"
+							className="link"
+						>
+							GitHub
+						</a>
+						. You can contact me on LinkedIn or by email at{" "}
 						<span className="primary-color">osk.bjorns90@gmail.com</span>
 					</p>
 				</div>
