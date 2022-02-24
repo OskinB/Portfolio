@@ -28,7 +28,6 @@ const DevelopmentPage = () => {
 						<a
 							href="https://www.linkedin.com/in/osk-bjorns/"
 							rel="noopener"
-							rel="noreferrer"
 							target="_blank"
 							className="link"
 						>
@@ -38,7 +37,6 @@ const DevelopmentPage = () => {
 						<a
 							href="https://github.com/OskinB?tab=repositories"
 							rel="noopener"
-							rel="noreferrer"
 							target="_blank"
 							className="link"
 						>
@@ -70,7 +68,6 @@ const DevelopmentPage = () => {
 						<a
 							href="https://www.linkedin.com/in/osk-bjorns/"
 							rel="noopener"
-							rel="noreferrer"
 							target="_blank"
 							className="link"
 						>
@@ -80,7 +77,6 @@ const DevelopmentPage = () => {
 						<a
 							href="https://github.com/OskinB?tab=repositories"
 							rel="noopener"
-							rel="noreferrer"
 							target="_blank"
 							className="link"
 						>
