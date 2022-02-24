@@ -25,19 +25,12 @@ const DevelopmentPage = () => {
 					</p>
 					<p>
 						<span className="highligt">Meanwhile</span>, check out my{" "}
-						<a
-							href="https://www.linkedin.com/in/osk-bjorns/"
-							rel="noopener"
-							target="_blank"
-							className="link"
-						>
+						<a href="https://www.linkedin.com/in/osk-bjorns/" className="link">
 							LinkedIn
 						</a>{" "}
 						page for more information about me and my work on{" "}
 						<a
 							href="https://github.com/OskinB?tab=repositories"
-							rel="noopener"
-							target="_blank"
 							className="link"
 						>
 							GitHub
@@ -65,19 +58,12 @@ const DevelopmentPage = () => {
 					</p>
 					<p>
 						<span className="highligt">Meanwhile</span>, check out my{" "}
-						<a
-							href="https://www.linkedin.com/in/osk-bjorns/"
-							rel="noopener"
-							target="_blank"
-							className="link"
-						>
+						<a href="https://www.linkedin.com/in/osk-bjorns/" className="link">
 							LinkedIn
 						</a>{" "}
 						page for more information about me and my work on{" "}
 						<a
 							href="https://github.com/OskinB?tab=repositories"
-							rel="noopener"
-							target="_blank"
 							className="link"
 						>
 							GitHub
