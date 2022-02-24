@@ -12,8 +12,8 @@ const DevelopmentPage = () => {
 				</h1>
 				<div className="text-holder">
 					<p>
-						I currently live in Copenhagen, where I completed my bachelor's
-						degree in Web Development in January 2022 and I specialize in{" "}
+						I graduated in January 2022 with a bachelor's degree in Web
+						Development from KEA, Copenhagen, and I specialize in{" "}
 						<span className="primary-color">frontend development</span>
 					</p>
 					<div className="img-holder">
@@ -57,9 +57,9 @@ const DevelopmentPage = () => {
 						Hello, I’m <span className="primary-color">Ósk Björns</span>
 					</h1>
 					<p>
-						I currently live in Copenhagen, finishing my bachelor's degree in
-						Web Development, and I'm a freelance{" "}
-						<span className="primary-color">frontend developer</span>
+						I graduated in January 2022 with a bachelor's degree in Web
+						Development from KEA, Copenhagen, and I specialize in{" "}
+						<span className="primary-color">frontend development</span>
 					</p>
 					<p>
 						My portfolio site is currently under development and will be ready
