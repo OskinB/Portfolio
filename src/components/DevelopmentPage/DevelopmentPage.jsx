@@ -12,9 +12,9 @@ const DevelopmentPage = () => {
 				</h1>
 				<div className="text-holder">
 					<p>
-						I currently live in Copenhagen, finishing my bachelor's degree in
-						Web Development, and I'm a freelance{" "}
-						<span className="primary-color">frontend developer</span>
+						I currently live in Copenhagen, where I completed my bachelor's
+						degree in Web Development in January 2022 and I specialize in{" "}
+						<span className="primary-color">frontend development</span>
 					</p>
 					<div className="img-holder">
 						<UncontrolledLottie height={200} width={320} />
@@ -25,12 +25,21 @@ const DevelopmentPage = () => {
 					</p>
 					<p>
 						<span className="highligt">Meanwhile</span>, check out my{" "}
-						<a href="https://www.linkedin.com/in/osk-bjorns/" rel="noopener" rel="noreferrer" target="_blank" className="link">
+						<a
+							href="https://www.linkedin.com/in/osk-bjorns/"
+							rel="noopener"
+							rel="noreferrer"
+							target="_blank"
+							className="link"
+						>
 							LinkedIn
 						</a>{" "}
 						page for more information about me and my work on{" "}
 						<a
-							href="https://github.com/OskinB?tab=repositories" rel="noopener" rel="noreferrer" target="_blank"
+							href="https://github.com/OskinB?tab=repositories"
+							rel="noopener"
+							rel="noreferrer"
+							target="_blank"
 							className="link"
 						>
 							GitHub
@@ -58,12 +67,21 @@ const DevelopmentPage = () => {
 					</p>
 					<p>
 						<span className="highligt">Meanwhile</span>, check out my{" "}
-						<a href="https://www.linkedin.com/in/osk-bjorns/" rel="noopener" rel="noreferrer" target="_blank" className="link">
+						<a
+							href="https://www.linkedin.com/in/osk-bjorns/"
+							rel="noopener"
+							rel="noreferrer"
+							target="_blank"
+							className="link"
+						>
 							LinkedIn
 						</a>{" "}
 						page for more information about me and my work on{" "}
 						<a
-							href="https://github.com/OskinB?tab=repositories" rel="noopener" rel="noreferrer" target="_blank"
+							href="https://github.com/OskinB?tab=repositories"
+							rel="noopener"
+							rel="noreferrer"
+							target="_blank"
 							className="link"
 						>
 							GitHub
