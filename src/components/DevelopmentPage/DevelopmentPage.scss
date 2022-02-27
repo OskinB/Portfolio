@@ -7,7 +7,7 @@
 
 	#smaller {
 		padding: 4rem 1.125rem 1rem;
-    margin-top: 3rem;
+		margin-top: 3rem;
 
 		@include desktop {
 			display: none;
@@ -44,10 +44,10 @@
 		font-family: "Domine", serif;
 		font-size: 1.375rem;
 		color: $text-color;
-    margin-bottom: -20px;
+		margin-bottom: -20px;
 	}
 	.slide-top {
-		animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+		animation: slide-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) 0.3s both;
 	}
 	.primary-color {
 		color: $primary-color;
@@ -77,11 +77,11 @@
 	@keyframes slide-top {
 		0% {
 			transform: translateY(-40);
-      opacity: 0;
+			opacity: 0;
 		}
 		100% {
 			transform: translateY(-40px);
-      opacity: 100;
+			opacity: 100;
 		}
 	}
 }
